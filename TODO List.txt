@@ -1,0 +1,26 @@
+-Ranged and melee player
+-Player respawn
+-Health and mana bars
+-Health and mana regen
+Level system
+-Mark system
+-Two diferents movements (go to mark, and go to mark and attack any enemy)
+-Improve mark system activating and unactivating the mark 
+-Ping system (two diferents ping)
+-Ping system accept pings over enemies and allies
+-Spell system
+-Spell mana cost
+Spell GUI
+Spell upgrades
+-Ranged and melee minions
+-Improve the minions spawner
+-Waypoint system for minions
+-Towers
+Order of destruction of towers
+Nexus (for finish a match)
+-Lockable and unlockable camera
+-Minimap GUI
+-Improve minimap gui adding icons and background
+-Minimap interactions
+-Team support
+-Messages controller with voice
